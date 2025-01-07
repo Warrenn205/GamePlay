@@ -1,4 +1,4 @@
-package com.demo.gameplay;
+package com.warren.gameplay;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
